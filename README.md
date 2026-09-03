@@ -61,3 +61,22 @@ The API was tested using Postman with GET, POST, PUT, and DELETE requests.
 - 201 Created - User successfully created
 - 404 Not Found - User does not exist
 
+## Screenshots
+
+### GET Request
+![GET Request](screenshots/get.jpeg)
+
+### GET Request - Test 1
+![GET Request Test 1](screenshots/get1.jpeg)
+
+### GET Request - Test 2
+![GET Request Test 2](screenshots/get2.jpeg)
+
+### POST Request
+![POST Request](screenshots/post.jpeg)
+
+### PUT Request
+![PUT Request](screenshots/put.jpeg)
+
+### DELETE Request
+![DELETE Request](screenshots/delete.jpeg)
