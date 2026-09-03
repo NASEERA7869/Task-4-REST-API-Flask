@@ -39,21 +39,24 @@ User data is stored in an in-memory list.
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 2. Run the Flask application:
 
 ```bash
 python app.py
+```
 
 3. Open the API:
+
 http://127.0.0.1:5000/users
 
 ## API Testing
 
-## The API was tested using Postman with GET, POST, PUT, and DELETE requests.
+The API was tested using Postman with GET, POST, PUT, and DELETE requests.
 
-- Status Codes Tested
+## Status Codes Tested
+
 - 200 OK - Successful request
 - 201 Created - User successfully created
 - 404 Not Found - User does not exist
